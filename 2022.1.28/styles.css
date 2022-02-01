@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&family=Supermercado+One&display=swap");
+.home-title {
+  font-family: Rock salt;
+  font-size: 2em;
+  margin-top: 10px;
+}
+.msg {
+  font-family: Supermercado One;
+  line-height: 1.5em;
+  padding: 35px;
+  background-color: rgba(20, 30, 13, 0.7);
+  color: white;
+}
+.msg p {
+  padding-bottom: 15px;
+}
+h2 {
+  font-family: Supermercado One;
+  margin: 0;
+}
+footer {
+  font-family: Supermercado One;
+  padding: 25px 50px;
+  padding-top: 15px;
+  margin-top: 200px;
+  background-color: rgba(20, 30, 13, 0.7);
+}
+#content {
+  max-width: 1600px;
+  margin: 0%;
+}
+#hero-img {
+  max-width: 1600px;
+}
+#background {
+  height: 725px;
+  color: #d9c2a3;
+}
+body {
+  background-color: #fcfbfb;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+nav a:hover {
+  background-color: black;
+}
+nav a:hover {
+  background-color: black;
+  color: #d9c2a3;
+}
+.icon {
+  width: 80px;
+  padding-top: 10px;
+}
+nav a {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+  padding: 35px;
+}
+h1 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+.book {
+  text-decoration: none;
+  color: black;
+  background-color: bisque;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.button-box {
+  text-align: center;
+}
+main section {
+  text-align: center;
+}
+#section {
+  color: white;
+}
+footer a {
+  text-decoration: none;
+  text-align: center;
+  color: bisque;
+}
+.join {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  background-color: bisque;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+footer h3 {
+  color: bisque;
+}
+#background {
+  background-color: bisque;
+}
+.logo {
+  width: 80px;
+}
+#hero-img {
+  width: 100%;
+}
+#logo_link {
+  padding-top: 5px;
+}
+.social {
+  padding-top: 15px;
+}
+img {
+  padding-top: 15px;
+}
+.rivers-card,
+.camping-card,
+.rapids-card {
+  margin: 200px 0;
+}
+.card-img {
+  border: 10px solid bisque;
+}
+main sectoin img {
+  box-sizing: border-box;
+}
